@@ -1,6 +1,6 @@
 {
   "type": "module",
   "dependencies": {
-    "terser": "5.9.0"
+    "terser": "5.14.2"
   }
 }
