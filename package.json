@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "terser": "5.9.0"
+    "terser": "5.9.0",
+    "eslint": "4.0.0"
   }
 }
